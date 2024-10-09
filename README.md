@@ -1,5 +1,11 @@
 # RAG chatbot agent with Open ai and pinecone 
 
+Check this medium article to learn more about how to build RAG. 
+
+Link : 
+
+https://sahukanishka.medium.com/build-domain-specific-chatbot-agent-rag-using-chatgpt-langchain-and-pinecone-javascript-b44ccdca3472
+
 Build Domain Specific chatbot agent (RAG ) using ChatGPT, Langchain, and Pinecone - javascript
 
 ### Tech Stack : 
@@ -10,3 +16,4 @@ Build Domain Specific chatbot agent (RAG ) using ChatGPT, Langchain, and Pinecon
 
 
 <img  src="Screenshot 2024-10-09 at 12.47.33 PM.png" />
+
