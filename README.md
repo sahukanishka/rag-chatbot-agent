@@ -8,3 +8,5 @@ Build Domain Specific chatbot agent (RAG ) using ChatGPT, Langchain, and Pinecon
 3. Pinecone ( Vector DB ) 
 4. Node.js
 
+
+<img  src="Screenshot 2024-10-09 at 12.47.33 PM.png" />
